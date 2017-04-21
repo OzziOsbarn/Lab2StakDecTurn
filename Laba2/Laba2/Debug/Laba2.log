@@ -1,0 +1,13 @@
+﻿Построение начато 21.04.2017 22:44:42.
+     1>Проект "D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Laba2\Laba2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\12\Visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+       Link:
+         C:\12\Visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Debug\Laba2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Debug\Laba2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Debug\Laba2.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         Laba2.vcxproj -> D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Debug\Laba2.exe
+     1>Построение проекта "D:\Рабочий стол\ДЗ\ДЗ\Технологии и методы программирования\4 семестр лабораторные\2\Laba2\Laba2\Laba2.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:17.47
